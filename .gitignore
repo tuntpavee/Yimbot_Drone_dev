@@ -1,0 +1,13 @@
+# Ignore ROS 2 build artifacts
+build/
+install/
+log/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore common editor files
+*.swp
+*~
+.vscode/
