@@ -11,3 +11,11 @@ __pycache__/
 *.swp
 *~
 .vscode/
+build/
+install/
+log/
+.colcon/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
